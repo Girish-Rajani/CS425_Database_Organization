@@ -5,11 +5,11 @@ This repository contains my learning journey in the subject of Database Organiza
 
 ## Table of Contents
 
-1. [The Relation Data Model]([#the-relation-data-model)
+1. [The Relation Data Model](#the-relation-data-model)
 2. [Database Modelling and Design](#database-modelling-and-design)
 3. [SQL](#sql)
 4. [Relational Algebra](#relational-algebra)
-5. [Database Architecture]([#database-architecture)
+5. [Database Architecture](#database-architecture)
 6. [Transactions Processing and Concurrency Control](#transactions-processing-and-concurrency-control)
 7. [Indexing, Query Processing and Optimization](#indexing-query-processing-and-optimization)
 8. [Security and Access Control](#security-and-access-control)
