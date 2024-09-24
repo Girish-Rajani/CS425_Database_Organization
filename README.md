@@ -1,4 +1,3 @@
-# CS425_Database_Organization
 # CS425: Datanase Organization (Fall 2023, Guidance: Prof. Gerald Blekaki)
 ## Illinois Institute of Technology
 
@@ -6,14 +5,14 @@ This repository contains my learning journey in the subject of Database Organiza
 
 ## Table of Contents
 
-1. [The Relation Data Model]([#statistical-learning))
-2. [Database Modelling and Design](#linear-regression)
-3. [SQL](#classification)
-4. [Relational Algebra](#resampling--cross-validation)
-5. [Database Architecture]([#non-linear-models))
-6. [Transactions Processing and Concurrency Control](#supervised-learning---decision-trees--support-vector-machines))
-7. [Indexing, Query Processing and Optimization]([#deep-learning---neural-networks))
-8. [Security and Access Control](#unsupervised-learning---dimensionality-reductionclustering)
+1. [The Relation Data Model]([#the-relational-model)
+2. [Database Modelling and Design](#database-modelling-and-design)
+3. [SQL](#sql)
+4. [Relational Algebra](#relational-algebra)
+5. [Database Architecture]([#database-architecture)
+6. [Transactions Processing and Concurrency Control](#transactions-processing-and-concurrency-control)
+7. [Indexing, Query Processing and Optimization](#indexing-query-processing-and-optimization)
+8. [Security and Access Control](#security-and-access-control)
 
 ## The Relation Data Model
 
