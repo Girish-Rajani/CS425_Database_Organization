@@ -1,0 +1,17 @@
+﻿Product,Region,Country,City,Sales
+A,Asia,China,Beijing,2500
+A,Asia,China,Beijing,1700
+A,Asia,Japan,Tokyo,800
+A,North America,Canada,Toronto,900
+A,North America,USA,New york,400
+A,North America,Canada,Toronto,2300
+A,North America,USA,Chicago,7800
+A,Europe,Germany,Berlin,300
+B,Europe,Germany,Berlin,700
+B,Europe,France,Paris,5500
+B,Europe,France,Paris,2300
+B,Europe,France,Paris,900
+B,Europe,Italy,Rome,400
+B,Australia,Australia,Canberra,2500
+B,Australia,Australia,Canberra,3500
+B,Australia,New Zealand,Wellington,5500
